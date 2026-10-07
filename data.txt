@@ -1,0 +1,4 @@
+Nama: Evelynda Nurita Arvizetty
+NPM: 25081010002
+Kelas: Sistem Operasi A081
+Saat ini sedang menjalankan tugas 1 tentang multithreads
