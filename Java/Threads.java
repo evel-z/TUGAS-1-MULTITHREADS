@@ -83,12 +83,11 @@ public class Threads {
 
         try {
             thread1.start();
-            thread1.join();
-
             thread2.start();
-            thread2.join();
-
             thread3.start();
+
+            thread1.join();
+            thread2.join();
             thread3.join();
         } 
         catch (InterruptedException e) {
